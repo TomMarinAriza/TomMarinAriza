@@ -1,7 +1,6 @@
 # Hi, I'm Tomas Marin Ariza 
 ## Game Developer & Programmer 
-
-🇬🇧  
+ 
 I am a programmer and game developer focused on building interactive experiences and software solutions.  
 I work mainly with Unity and C#, and I also develop applications and web solutions using modern technologies.  
 I am interested in continuous learning, clean code, and scalable project design.
