@@ -40,28 +40,10 @@ Me interesa el aprendizaje continuo, el código limpio y el diseño de proyectos
 
 ---
 
-## 🚀 Featured Project | Proyecto Destacado
-
-### 🦊 Kitsune Videogame  
-A video game project focused on character abilities, mechanics, and balanced gameplay design.  
-Un proyecto de videojuego enfocado en habilidades de personajes, mecánicas y balance de juego.
-
----
-
-## 📌 Currently Learning | Aprendiendo Actualmente
-
-- Advanced Unity mechanics
-- Game architecture and optimization
-- Full-stack development fundamentals
-
----
-
 ## 📫 Contact
 
 📌 GitHub: https://github.com/TomMarinAriza
 📧 Email: tomasmarinariza@gmail.com 
 🌐 Portfolio: https://tuportafolio.com
 
----
 
-⭐ *Always learning, building, and improving through code.*
