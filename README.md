@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tomas Marin Ariza | Hola, soy Tomás Marín Ariza
+#Hi, I'm Tomas Marin Ariza | Hola, soy Tomás Marín Ariza
 
 ## 🎮 Game Developer & Programmer | Programador y Desarrollador de Videojuegos
 
@@ -26,6 +26,8 @@ Me interesa el aprendizaje continuo, el código limpio y el diseño de proyectos
 ### Web Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 ---
 
@@ -48,8 +50,9 @@ Un proyecto de videojuego enfocado en habilidades de personajes, mecánicas y ba
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomMarinAriza&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomMarinAriza&layout=compact)
+
 
 ---
 
