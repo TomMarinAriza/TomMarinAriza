@@ -1,4 +1,4 @@
-#Hi, I'm Tomas Marin Ariza | Hola, soy Tomás Marín Ariza
+# Hi, I'm Tomas Marin Ariza | Hola, soy Tomás Marín Ariza
 
 ## 🎮 Game Developer & Programmer | Programador y Desarrollador de Videojuegos
 
