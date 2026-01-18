@@ -1,6 +1,6 @@
 # Hi, I'm Tomas Marin Ariza | Hola, soy Tomás Marín Ariza
 
-## 🎮 Game Developer & Programmer | Programador y Desarrollador de Videojuegos
+## Game Developer & Programmer | Programador y Desarrollador de Videojuegos
 
 🇬🇧  
 I am a programmer and game developer focused on building interactive experiences and software solutions.  
@@ -14,7 +14,7 @@ Me interesa el aprendizaje continuo, el código limpio y el diseño de proyectos
 
 ---
 
-## 🛠️ Technologies & Tools | Tecnologías y Herramientas
+## Technologies & Tools | Tecnologías y Herramientas
 
 ### Languages | Lenguajes
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -31,19 +31,19 @@ Me interesa el aprendizaje continuo, el código limpio y el diseño de proyectos
 
 ---
 
-## 🎯 Areas of Interest | Áreas de Interés
+## Areas of Interest | Áreas de Interés
 
-- 🎮 Video Game Development (2D & 3D)
-- 🧠 Unity Gameplay & Systems Design
-- 💻 Software Development
-- 🌐 Web Development
+- Video Game Development (2D & 3D)
+- Unity Gameplay & Systems Design
+- Software Development
+- Web Development
 
 ---
 
-## 📫 Contact
+## Contact
 
-📌 GitHub: https://github.com/TomMarinAriza
-📧 Email: tomasmarinariza@gmail.com 
-🌐 Portfolio: https://tuportafolio.com
+GitHub: https://github.com/TomMarinAriza
+Email: tomasmarinariza@gmail.com 
+Portfolio: https://tuportafolio.com
 
 
