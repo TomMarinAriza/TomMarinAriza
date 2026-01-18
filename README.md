@@ -48,14 +48,6 @@ Un proyecto de videojuego enfocado en habilidades de personajes, mecánicas y ba
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomMarinAriza&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomMarinAriza&layout=compact)
-
-
----
-
 ## 📌 Currently Learning | Aprendiendo Actualmente
 
 - Advanced Unity mechanics
